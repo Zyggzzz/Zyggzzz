@@ -1,10 +1,10 @@
 ### <div align="center">Howdy! Zyg here i am experienced in Discord Bot and Front end Development and currently working at [Viola Network](https://violanetwork.com) as COO.</div>  
   
 
-- ðŸ”­ Iâ€™m incharge of all things operations related to Viola and Have a active participation in Viola's Customer and Staff management.  
+- 🔭 I'm incharge of all things operations related to Viola and Have a active participation in Viola's Customer and Staff management.  
   
 
-- ðŸŒ± Iâ€™m currently learning TypeScript and React  
+- 🌱 I'm currently learning TypeScript and React  
   
 
 <br/>  
