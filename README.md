@@ -7,7 +7,7 @@
 - 🌱 I'm currently learning TypeScript and React  
 
 
-- ðŸ“§ You can contact me at   
+- ✉️ You can contact me at dylolibusiness@gmail.com
 
 <br/>  
 
