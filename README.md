@@ -4,7 +4,7 @@
 - 🔭 I'm incharge of all things operations related to Viola and Have a active participation in Viola's Customer and Staff management.  
   
 
-- 🌱 I'm currently learning TypeScript and React  
+- 🌱 I'm currently learning React and NextJS  
 
 
 - ✉️ You can contact me at dylolibusiness@gmail.com
