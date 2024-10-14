@@ -1,7 +1,7 @@
-### <div align="center">Howdy! Zyg here i am experienced in Discord Bot and Front end Development and currently working at [Viola Network](https://violanetwork.com) as COO.</div>  
+### <div align="center">Howdy! Zyg here I am experienced in Discord Bot and Front end Development and currently working at [Viola Network](https://violanetwork.com) as COO.</div>  
   
 
-- 🔭 I'm incharge of all things operations related to Viola and Have a active participation in Viola's Customer and Staff management.  
+- 🔭 I'm in charge of all things operations related to Viola and have an active participation in Viola's customer and staff management.  
   
 
 - 🌱 I'm currently learning React and NextJS  
@@ -57,7 +57,7 @@
 <br/>  
 
 
-## Connect with me  
+## Connect With Me  
 <div align="center">
 <a href="https://github.com/Zyggzzz" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
