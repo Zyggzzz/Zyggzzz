@@ -69,7 +69,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="[https://github-readme-stats.vercel.app/api?username=Zyggzzz&show_icons=true&count_private=true&hide_border=true](https://streak-stats.demolab.com/?user=Zyggzzz)" align="center" /></div>  
+<div align="center"><img src="https://streak-stats.demolab.com/?user=Zyggzzz" align="center" /></div>  
 
 <br/>  
 
