@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am a systems developer passionate about low-level programming and operating system architecture. Currently, I am a core contributor to the ZenithOS Project, a modern web operating system environment written in Next.js.<br><br>🔭 Current Focus<br><br>- ZenithOS Development: actively working on the app layer and user-space ecosystem for ZenithOS.<br><br>- Infrastructure & Tooling: Developing the ZenithOS Discord Bot to bridge our community and development workflow.<br>
-
+I am Zyggzz, a developer based in the Netherlands. I love working on websites, discord bots and other node.js based applications.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/378606584802050049) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dylolibusiness@gmail.com) 
